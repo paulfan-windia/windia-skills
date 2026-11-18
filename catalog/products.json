@@ -1,0 +1,62 @@
+{
+  "brand": "WINDIA",
+  "contact_email": "esofanwentao@gmail.com",
+  "repository": "https://github.com/paulfan-windia/windia-skills",
+  "last_verified": "2026-11-18",
+  "products": [
+    {
+      "id": "corporate-vi-lite",
+      "name": "WINDIA Corporate VI Brand Design System - Lite",
+      "edition": "Lite",
+      "price_usd": 0,
+      "platform": "Agensi.io",
+      "status": "Live",
+      "url": "https://agensi.io/",
+      "search_term": "WINDIA Corporate VI Brand Design System",
+      "version": null,
+      "verified_on": "2026-11-18"
+    },
+    {
+      "id": "corporate-vi-full",
+      "name": "WINDIA Corporate VI Brand Design System - Full",
+      "edition": "Full",
+      "price_usd": 3.99,
+      "platform": "Agensi.io",
+      "status": "Live",
+      "url": "https://agensi.io/",
+      "search_term": "WINDIA Corporate VI Brand Design System",
+      "version": null,
+      "verified_on": "2026-11-18"
+    },
+    {
+      "id": "qs-lite",
+      "name": "WINDIA QS Bid Review Suite - Lite",
+      "edition": "Lite",
+      "price_usd": 0,
+      "platform": "GitHub / Agensi.io",
+      "status": "Available",
+      "url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/qs-lite.md",
+      "search_term": "WINDIA QS Bid Review Suite (Lite - Free)",
+      "version": "1.0.1",
+      "verified_on": "2026-11-18"
+    },
+    {
+      "id": "qs-full",
+      "name": "WINDIA QS Bid Review Suite - Full",
+      "edition": "Full",
+      "price_usd": 9.99,
+      "pricing_model": "one_time",
+      "platform": "Agensi.io",
+      "status": "Pending Review",
+      "url": "https://agensi.io/",
+      "search_term": "Skill WINDIA QS Tender Review Suite (Full)",
+      "version": "1.0.0",
+      "verified_on": "2026-11-18"
+    }
+  ],
+  "roadmap": [
+    "AI-assisted quantity take-off and rate build-ups using RICS NRM2 measurement principles and the actual project's FIDIC conditions.",
+    "BOQ preparation and formatting for construction, real estate, commercial property and manufacturing projects.",
+    "Construction cost management tools for engineering consultancy teams."
+  ]
+}

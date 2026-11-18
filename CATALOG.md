@@ -1,0 +1,31 @@
+# WINDIA product catalog
+
+| Product | Version | Price | Distribution | Last verified status | Verified on |
+| --- | --- | --- | --- | --- | --- |
+| [WINDIA Corporate VI Brand Design System - Lite](https://agensi.io/) | Not recorded | Free | Agensi.io | Live | 2026-11-18 |
+| [WINDIA Corporate VI Brand Design System - Full](https://agensi.io/) | Not recorded | USD 3.99 | Agensi.io | Live | 2026-11-18 |
+| [WINDIA QS Bid Review Suite - Lite](https://github.com/paulfan-windia/windia-skills/blob/main/docs/qs-lite.md) | 1.0.1 | Free | GitHub / Agensi.io | Available | 2026-11-18 |
+| [WINDIA QS Bid Review Suite - Full](https://agensi.io/) | 1.0.0 | USD 9.99 one-time | Agensi.io | Pending Review | 2026-11-18 |
+
+Platform status and prices are recorded from the latest verified listing information. Pending Review is not a live offer. Agensi links open the marketplace; use the exact search terms below.
+
+## Agensi search terms
+
+- **WINDIA Corporate VI Brand Design System - Lite**: `WINDIA Corporate VI Brand Design System`
+- **WINDIA Corporate VI Brand Design System - Full**: `WINDIA Corporate VI Brand Design System`
+- **WINDIA QS Bid Review Suite - Lite**: `WINDIA QS Bid Review Suite (Lite - Free)`
+- **WINDIA QS Bid Review Suite - Full**: `Skill WINDIA QS Tender Review Suite (Full)`
+
+## Planned skills
+
+- AI-assisted quantity take-off and rate build-ups using RICS NRM2 measurement principles and the actual project's FIDIC conditions.
+- BOQ preparation and formatting for construction, real estate, commercial property and manufacturing projects.
+- Construction cost management tools for engineering consultancy teams.
+
+Roadmap items are planned products, not current released capabilities.
+
+## Maintenance
+
+The source of truth is [catalog/products.json](catalog/products.json). After a listing is checked, update its price, version, status and verified date there. The catalog workflow regenerates this page and the README table. It does not query Agensi or assume that a pending listing has been approved.
+
+Contact esofanwentao@gmail.com.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "WINDIA QS Bid Review Suite Lite"
+  short_description: "Free QS tender intake and one-page review brief"
+  default_prompt: "Use $windia-qs-lite to review these tender sources and prepare the appropriate evidence-led deliverables."
