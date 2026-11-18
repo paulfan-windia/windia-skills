@@ -34,7 +34,7 @@
       "edition": "Lite",
       "price_usd": 0,
       "platform": "GitHub / Agensi.io",
-      "status": "Available",
+      "status": "Live",
       "url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/qs-lite.md",
       "search_term": "WINDIA QS Bid Review Suite (Lite - Free)",
       "version": "1.0.1",
@@ -47,7 +47,7 @@
       "price_usd": 9.99,
       "pricing_model": "one_time",
       "platform": "Agensi.io",
-      "status": "Pending Review",
+      "status": "Live",
       "url": "https://agensi.io/",
       "search_term": "Skill WINDIA QS Tender Review Suite (Full)",
       "version": "1.0.0",
@@ -58,5 +58,6 @@
     "AI-assisted quantity take-off and rate build-ups using RICS NRM2 measurement principles and the actual project's FIDIC conditions.",
     "BOQ preparation and formatting for construction, real estate, commercial property and manufacturing projects.",
     "Construction cost management tools for engineering consultancy teams."
-  ]
+  ],
+  "brand_logo": "assets/windia-skill-logo.png"
 }

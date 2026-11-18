@@ -1,11 +1,13 @@
 # WINDIA product catalog
 
+<p align="center"><img src="assets/windia-skill-logo.png" alt="WINDIA" width="180" /></p>
+
 | Product | Version | Price | Distribution | Last verified status | Verified on |
 | --- | --- | --- | --- | --- | --- |
 | [WINDIA Corporate VI Brand Design System - Lite](https://agensi.io/) | Not recorded | Free | Agensi.io | Live | 2026-11-18 |
 | [WINDIA Corporate VI Brand Design System - Full](https://agensi.io/) | Not recorded | USD 3.99 | Agensi.io | Live | 2026-11-18 |
-| [WINDIA QS Bid Review Suite - Lite](https://github.com/paulfan-windia/windia-skills/blob/main/docs/qs-lite.md) | 1.0.1 | Free | GitHub / Agensi.io | Available | 2026-11-18 |
-| [WINDIA QS Bid Review Suite - Full](https://agensi.io/) | 1.0.0 | USD 9.99 one-time | Agensi.io | Pending Review | 2026-11-18 |
+| [WINDIA QS Bid Review Suite - Lite](https://github.com/paulfan-windia/windia-skills/blob/main/docs/qs-lite.md) | 1.0.1 | Free | GitHub / Agensi.io | Live | 2026-11-18 |
+| [WINDIA QS Bid Review Suite - Full](https://agensi.io/) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-18 |
 
 Platform status and prices are recorded from the latest verified listing information. Pending Review is not a live offer. Agensi links open the marketplace; use the exact search terms below.
 

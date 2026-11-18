@@ -1,5 +1,7 @@
 # WINDIA QS Quantity Surveying Tender Audit & Bid Proposal Template Suite - Lite Free
 
+<img src="../assets/windia-skill-logo.png" alt="WINDIA" width="150" />
+
 > This is the free Lite edition. For the Full edition, [search](https://agensi.io/) the Agensi.io Skill Marketplace for **Skill WINDIA QS Tender Review Suite (Full)**. Contact [esofanwentao@gmail.com](mailto:esofanwentao@gmail.com).
 >
 > [Find WINDIA Full on Agensi.io](https://www.agensi.io/) | Product page placeholder `AGENSI_PRODUCT_URL`

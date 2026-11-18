@@ -27,7 +27,7 @@ table = "\n".join([
 ])
 notice = "Platform status and prices are recorded from the latest verified listing information. Pending Review is not a live offer. Agensi links open the marketplace; use the exact search terms below."
 searches = "\n".join(f"- **{p['name']}**: `{p['search_term']}`" for p in data["products"] if "Agensi" in p["platform"])
-catalog = f"# WINDIA product catalog\n\n{table}\n\n{notice}\n\n## Agensi search terms\n\n{searches}\n\n## Planned skills\n\n" + "\n".join(f"- {x}" for x in data["roadmap"]) + "\n\nRoadmap items are planned products, not current released capabilities.\n\n## Maintenance\n\nThe source of truth is [catalog/products.json](catalog/products.json). After a listing is checked, update its price, version, status and verified date there. The catalog workflow regenerates this page and the README table. It does not query Agensi or assume that a pending listing has been approved.\n\nContact esofanwentao@gmail.com.\n"
+catalog = f"# WINDIA product catalog\n\n<p align=\"center\"><img src=\"assets/windia-skill-logo.png\" alt=\"WINDIA\" width=\"180\" /></p>\n\n{table}\n\n{notice}\n\n## Agensi search terms\n\n{searches}\n\n## Planned skills\n\n" + "\n".join(f"- {x}" for x in data["roadmap"]) + "\n\nRoadmap items are planned products, not current released capabilities.\n\n## Maintenance\n\nThe source of truth is [catalog/products.json](catalog/products.json). After a listing is checked, update its price, version, status and verified date there. The catalog workflow regenerates this page and the README table. It does not query Agensi or assume that a pending listing has been approved.\n\nContact esofanwentao@gmail.com.\n"
 (ROOT / "CATALOG.md").write_text(catalog)
 readme = ROOT / "README.md"
 text = readme.read_text()

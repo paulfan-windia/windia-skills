@@ -1,5 +1,7 @@
 # WINDIA Skills
 
+<p align="center"><img src="assets/windia-skill-logo.png" alt="WINDIA" width="180" /></p>
+
 > This repository provides free Lite skills. For the complete QS suite, [search Agensi.io](https://agensi.io/) for **Skill WINDIA QS Tender Review Suite (Full)**. Contact [esofanwentao@gmail.com](mailto:esofanwentao@gmail.com).
 
 Practical AI skills for quantity surveyors, engineering consultants and business teams. This is the public WINDIA brand and product hub: free tools on GitHub, commercial editions on Agensi.io, and a growing specialist engineering toolkit.
@@ -12,8 +14,8 @@ Practical AI skills for quantity surveyors, engineering consultants and business
 | --- | --- | --- | --- | --- | --- |
 | [WINDIA Corporate VI Brand Design System - Lite](https://agensi.io/) | Not recorded | Free | Agensi.io | Live | 2026-11-18 |
 | [WINDIA Corporate VI Brand Design System - Full](https://agensi.io/) | Not recorded | USD 3.99 | Agensi.io | Live | 2026-11-18 |
-| [WINDIA QS Bid Review Suite - Lite](https://github.com/paulfan-windia/windia-skills/blob/main/docs/qs-lite.md) | 1.0.1 | Free | GitHub / Agensi.io | Available | 2026-11-18 |
-| [WINDIA QS Bid Review Suite - Full](https://agensi.io/) | 1.0.0 | USD 9.99 one-time | Agensi.io | Pending Review | 2026-11-18 |
+| [WINDIA QS Bid Review Suite - Lite](https://github.com/paulfan-windia/windia-skills/blob/main/docs/qs-lite.md) | 1.0.1 | Free | GitHub / Agensi.io | Live | 2026-11-18 |
+| [WINDIA QS Bid Review Suite - Full](https://agensi.io/) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-18 |
 
 <!-- WINDIA-CATALOG:END -->
 
