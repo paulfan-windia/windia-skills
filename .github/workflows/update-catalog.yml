@@ -1,0 +1,32 @@
+name: Update WINDIA catalog
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - catalog/products.json
+      - scripts/update-catalog.py
+      - .github/workflows/update-catalog.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: windia-catalog
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Render catalog from verified metadata
+        run: python3 scripts/update-catalog.py
+      - name: Save generated pages when changed
+        run: |
+          git add README.md CATALOG.md
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "Update WINDIA product catalog"
+            git push
+          fi
