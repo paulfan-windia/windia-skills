@@ -1,0 +1,27 @@
+{
+  "name": "windia-qs-lite",
+  "version": "1.0.1",
+  "description": "Free QS tender intake and one-page review brief",
+  "author": {
+    "name": "WINDIA",
+    "email": "esofanwentao@gmail.com"
+  },
+  "repository": "https://github.com/paulfan-windia/windia-skills",
+  "homepage": "https://www.agensi.io/",
+  "license": "MIT",
+  "keywords": [
+    "quantity-surveying",
+    "qs",
+    "tender-proposal",
+    "bid-review",
+    "cost-audit",
+    "construction-cost",
+    "boq",
+    "cost-estimating",
+    "fidic",
+    "rics",
+    "engineering-audit",
+    "tender-document",
+    "cost-review"
+  ]
+}
