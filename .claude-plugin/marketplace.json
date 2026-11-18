@@ -1,0 +1,34 @@
+{
+  "name": "windia-skills",
+  "owner": {
+    "name": "WINDIA",
+    "email": "esofanwentao@gmail.com"
+  },
+  "metadata": {
+    "description": "WINDIA QS skills for quantity surveyors and tender teams",
+    "version": "1.0.1"
+  },
+  "plugins": [
+    {
+      "name": "windia-qs-lite",
+      "source": "./plugins/windia-qs-lite",
+      "description": "Free QS tender intake and one-page review brief",
+      "version": "1.0.1",
+      "keywords": [
+        "quantity-surveying",
+        "qs",
+        "tender-proposal",
+        "bid-review",
+        "cost-audit",
+        "construction-cost",
+        "boq",
+        "cost-estimating",
+        "fidic",
+        "rics",
+        "engineering-audit",
+        "tender-document",
+        "cost-review"
+      ]
+    }
+  ]
+}
