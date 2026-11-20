@@ -2,7 +2,7 @@
   "brand": "WINDIA",
   "contact_email": "esofanwentao@gmail.com",
   "repository": "https://github.com/paulfan-windia/windia-skills",
-  "last_verified": "2026-11-18",
+  "last_verified": "2026-11-21",
   "products": [
     {
       "id": "corporate-vi-lite",
@@ -52,6 +52,31 @@
       "search_term": "Skill WINDIA QS Tender Review Suite (Full)",
       "version": "1.0.0",
       "verified_on": "2026-11-18"
+    },
+    {
+      "id": "bid-levelling-lite",
+      "name": "WINDIA QS Bid-Levelling Tool (Lite)",
+      "edition": "Lite",
+      "price_usd": 0,
+      "platform": "Agensi.io",
+      "status": "Live",
+      "url": "https://agensi.io/skills/windia-qs-bid-levelling-tool-lite",
+      "search_term": "Windia QS Bid-Levelling Tool (Lite)",
+      "version": "1.0.0",
+      "verified_on": "2026-11-21"
+    },
+    {
+      "id": "bid-levelling-full",
+      "name": "WINDIA QS Bid-Levelling Tool (Full)",
+      "edition": "Full",
+      "price_usd": 19.99,
+      "pricing_model": "one_time",
+      "platform": "Agensi.io",
+      "status": "Live",
+      "url": "https://agensi.io/skills/windia-qs-bid-levelling-tool-full",
+      "search_term": "Windia QS Bid-Levelling Tool (Full)",
+      "version": "1.0.0",
+      "verified_on": "2026-11-21"
     }
   ],
   "roadmap": [
