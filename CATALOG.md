@@ -8,6 +8,8 @@
 | [WINDIA Corporate VI Brand Design System - Full](https://agensi.io/) | Not recorded | USD 3.99 | Agensi.io | Live | 2026-11-18 |
 | [WINDIA QS Bid Review Suite - Lite](https://github.com/paulfan-windia/windia-skills/blob/main/docs/qs-lite.md) | 1.0.1 | Free | GitHub / Agensi.io | Live | 2026-11-18 |
 | [WINDIA QS Bid Review Suite - Full](https://agensi.io/) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-18 |
+| [WINDIA QS Bid-Levelling Tool (Lite)](https://agensi.io/skills/windia-qs-bid-levelling-tool-lite) | 1.0.0 | Free | Agensi.io | Live | 2026-11-21 |
+| [WINDIA QS Bid-Levelling Tool (Full)](https://agensi.io/skills/windia-qs-bid-levelling-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-21 |
 
 Platform status and prices are recorded from the latest verified listing information. Pending Review is not a live offer. Agensi links open the marketplace; use the exact search terms below.
 
@@ -17,6 +19,8 @@ Platform status and prices are recorded from the latest verified listing informa
 - **WINDIA Corporate VI Brand Design System - Full**: `WINDIA Corporate VI Brand Design System`
 - **WINDIA QS Bid Review Suite - Lite**: `WINDIA QS Bid Review Suite (Lite - Free)`
 - **WINDIA QS Bid Review Suite - Full**: `Skill WINDIA QS Tender Review Suite (Full)`
+- **WINDIA QS Bid-Levelling Tool (Lite)**: `Windia QS Bid-Levelling Tool (Lite)`
+- **WINDIA QS Bid-Levelling Tool (Full)**: `Windia QS Bid-Levelling Tool (Full)`
 
 ## Planned skills
 
