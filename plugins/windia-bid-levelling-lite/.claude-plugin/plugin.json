@@ -1,0 +1,10 @@
+{
+  "name": "windia-bid-levelling-lite",
+  "version": "1.0.0",
+  "description": "Organize construction bid submissions, flag missing information, and create a preliminary bid comparison outline.",
+  "author": {
+    "name": "WINDIA",
+    "email": "esofanwentao@gmail.com"
+  },
+  "license": "MIT"
+}
