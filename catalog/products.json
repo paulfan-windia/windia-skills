@@ -55,26 +55,26 @@
     },
     {
       "id": "bid-levelling-lite",
-      "name": "WINDIA QS Bid-Levelling Tool (Lite)",
+      "name": "WINDIA QS Construction Bid Comparison Tool (Lite)",
       "edition": "Lite",
       "price_usd": 0,
       "platform": "Agensi.io",
       "status": "Live",
-      "url": "https://agensi.io/skills/windia-qs-bid-levelling-tool-lite",
-      "search_term": "Windia QS Bid-Levelling Tool (Lite)",
+      "url": "https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-lite",
+      "search_term": "WINDIA QS Construction Bid Comparison Tool (Lite)",
       "version": "1.0.0",
       "verified_on": "2026-11-21"
     },
     {
       "id": "bid-levelling-full",
-      "name": "WINDIA QS Bid-Levelling Tool (Full)",
+      "name": "WINDIA QS Construction Bid Comparison Tool (Full)",
       "edition": "Full",
       "price_usd": 19.99,
       "pricing_model": "one_time",
       "platform": "Agensi.io",
       "status": "Live",
-      "url": "https://agensi.io/skills/windia-qs-bid-levelling-tool-full",
-      "search_term": "Windia QS Bid-Levelling Tool (Full)",
+      "url": "https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-full",
+      "search_term": "WINDIA QS Construction Bid Comparison Tool (Full)",
       "version": "1.0.0",
       "verified_on": "2026-11-21"
     }
