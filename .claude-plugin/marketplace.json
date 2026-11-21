@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "WINDIA QS skills for quantity surveyors and tender teams",
-    "version": "1.0.1"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -28,6 +28,28 @@
         "engineering-audit",
         "tender-document",
         "cost-review"
+      ]
+    },
+    {
+      "name": "windia-bid-levelling-lite",
+      "source": "./plugins/windia-bid-levelling-lite",
+      "description": "Organize construction bid submissions, flag missing information, and create a preliminary bid comparison outline.",
+      "version": "1.0.0",
+      "keywords": [
+        "quantity-surveying",
+        "qs",
+        "bid-leveling",
+        "tender-review",
+        "cost-audit",
+        "construction-cost",
+        "boq",
+        "cost-estimating",
+        "fidic",
+        "rics",
+        "engineering-audit",
+        "tender-document",
+        "cost-review",
+        "tender-bid-analysis"
       ]
     }
   ]
