@@ -16,14 +16,30 @@ Practical AI skills for quantity surveyors, engineering consultants and business
 | [WINDIA Corporate VI Brand Design System - Full](https://agensi.io/) | Not recorded | USD 3.99 | Agensi.io | Live | 2026-11-18 |
 | [WINDIA QS Bid Review Suite - Lite](https://github.com/paulfan-windia/windia-skills/blob/main/docs/qs-lite.md) | 1.0.1 | Free | GitHub / Agensi.io | Live | 2026-11-18 |
 | [WINDIA QS Bid Review Suite - Full](https://agensi.io/) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-18 |
-| [WINDIA QS Construction Bid Comparison Tool (Lite)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-lite) | 1.0.0 | Free | Agensi.io | Live | 2026-11-21 |
+| [WINDIA QS Construction Bid Comparison Tool (Lite)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-lite) | 1.0.0 | Free | GitHub / Agensi.io | Live | 2026-11-21 |
 | [WINDIA QS Construction Bid Comparison Tool (Full)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-21 |
 
 <!-- WINDIA-CATALOG:END -->
 
 Prices and platform statuses reflect the verification dates shown. See the [full catalog and exact Agensi search terms](CATALOG.md). A pending review entry is not yet a live offer.
 
-## Install QS Lite for free
+## Install Construction Bid Comparison Lite
+
+**WINDIA QS Construction Bid Comparison Tool (Lite)** is free. Organize construction bid submissions, flag missing information, and create a preliminary bid comparison outline.
+
+In Claude Code:
+
+```text
+/plugin marketplace add paulfan-windia/windia-skills
+/plugin install windia-bid-levelling-lite@windia-skills
+/windia-bid-levelling-lite:windia-bid-levelling-lite
+```
+
+If the marketplace is already registered, run `/plugin marketplace update windia-skills` before installing.
+
+Download [Lite ZIP](downloads/windia-bid-levelling-lite-1.0.0.zip) or [Lite .skill installer](downloads/windia-bid-levelling-lite-1.0.0.skill). See the [installation and usage guide](docs/bid-levelling-lite.md). Agensi offers [Lite](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-lite) and the paid [Full edition](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-full).
+
+## Install QS Bid Review Suite Lite for free
 
 Run inside Claude Code:
 
@@ -60,4 +76,4 @@ Verified product information is maintained in [catalog/products.json](catalog/pr
 
 ## Contact and licence
 
-Contact [esofanwentao@gmail.com](mailto:esofanwentao@gmail.com). QS Lite and this repository's public files are MIT-licensed; commercial Full materials remain outside the repository. The public plugin marketplace currently installs QS Lite only.
+Contact [esofanwentao@gmail.com](mailto:esofanwentao@gmail.com). QS Lite and this repository's public files are MIT-licensed; commercial Full materials remain outside the repository. The public plugin marketplace includes the free Construction Bid Comparison Lite and QS Bid Review Suite Lite.
