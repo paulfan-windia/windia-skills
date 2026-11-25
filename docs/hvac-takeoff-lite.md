@@ -43,7 +43,7 @@ See the [synthetic intake example](../plugins/windia-hvac-takeoff-lite/skills/wi
 
 ## Marketplace status
 
-[Lite on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) (Pending Review) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full) (Pending Review) · USD 29.99 one-time for Full.
+[Lite on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) (Live) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full) (Live) · USD 29.99 one-time for Full.
 
 ## About WINDIA
 
