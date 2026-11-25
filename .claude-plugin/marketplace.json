@@ -69,6 +69,24 @@
         "rics-nrm2",
         "fidic"
       ]
+    },
+    {
+      "name": "windia-hvac-takeoff-lite",
+      "source": "./plugins/windia-hvac-takeoff-lite",
+      "description": "Organise VRF and ventilation drawings for an HVAC bid. Identify the input gaps, project boundaries and BOQ headings. The free edition gives you a takeoff brief and a review outline.",
+      "version": "1.0.0",
+      "keywords": [
+        "hvac",
+        "quantity-takeoff",
+        "boq",
+        "dxf",
+        "vrf",
+        "ductwork",
+        "quantity-surveying",
+        "tender",
+        "rics-nrm2",
+        "fidic"
+      ]
     }
   ]
 }

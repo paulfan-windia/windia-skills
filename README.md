@@ -20,10 +20,23 @@ Practical AI skills for quantity surveyors, engineering consultants and business
 | [WINDIA QS Construction Bid Comparison Tool (Full)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-21 |
 | [WINDIA QS Piling Final Account Review Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/piling-final-account-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-lite) | 2026-11-25 |
 | [WINDIA QS Piling Final Account Review Tool (Full)](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-25 |
+| [WINDIA QS HVAC Takeoff & Tender BOQ Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/hvac-takeoff-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Pending Review](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) | 2026-11-26 |
+| [WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full)](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full) | 1.0.0 | USD 29.99 one-time | Agensi.io | Pending Review | 2026-11-26 |
 
 <!-- WINDIA-CATALOG:END -->
 
 Prices and platform statuses reflect the verification dates shown. See the [full catalog and exact Agensi search terms](CATALOG.md). A pending review entry is not yet a live offer.
+
+## Install HVAC Takeoff Lite
+
+**WINDIA QS HVAC Takeoff & Tender BOQ Tool (Lite)** is free and open source. Prepare a drawing register, scope questions and BOQ outline for an HVAC bid.
+
+```text
+/plugin marketplace add paulfan-windia/windia-skills
+/plugin install windia-hvac-takeoff-lite@windia-skills
+```
+
+[Lite product README](docs/hvac-takeoff-lite.md) · [Download ZIP](downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.zip) · [.skill installer](downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.skill) · [Lite on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) (Pending Review) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full) (Pending Review).
 
 ## Install Piling Final Account Review Lite
 
