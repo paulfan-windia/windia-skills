@@ -51,6 +51,24 @@
         "cost-review",
         "tender-bid-analysis"
       ]
+    },
+    {
+      "name": "windia-piling-final-account-lite",
+      "source": "./plugins/windia-piling-final-account-lite",
+      "description": "Prepare a preliminary piling final-account brief for construction closeout. Identify eligible driven piles, input gaps and review headings. For the Full edition, search Agensi.io for WINDIA QS.",
+      "version": "1.0.0",
+      "keywords": [
+        "piling-final-account",
+        "construction-closeout",
+        "pile-quantity-reconciliation",
+        "quantity-surveying",
+        "precast-piles",
+        "phc-piles",
+        "steel-pipe-piles",
+        "boq-reconciliation",
+        "rics-nrm2",
+        "fidic"
+      ]
     }
   ]
 }

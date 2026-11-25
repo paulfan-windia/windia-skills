@@ -2,7 +2,7 @@
   "brand": "WINDIA",
   "contact_email": "esofanwentao@gmail.com",
   "repository": "https://github.com/paulfan-windia/windia-skills",
-  "last_verified": "2026-11-21",
+  "last_verified": "2026-11-25",
   "products": [
     {
       "id": "corporate-vi-lite",
@@ -79,6 +79,38 @@
       "search_term": "WINDIA QS Construction Bid Comparison Tool (Full)",
       "version": "1.0.0",
       "verified_on": "2026-11-21"
+    },
+    {
+      "id": "piling-final-account-lite",
+      "name": "WINDIA QS Piling Final Account Review Tool (Lite)",
+      "edition": "Lite",
+      "price_usd": 0,
+      "platform": "GitHub / Agensi.io",
+      "status": "Available",
+      "url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/piling-final-account-lite.md",
+      "search_term": "WINDIA QS",
+      "version": "1.0.0",
+      "verified_on": "2026-11-25",
+      "github_url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/piling-final-account-lite.md",
+      "agensi_url": "https://agensi.io/skills/windia-qs-piling-final-account-review-tool-lite",
+      "agensi_status": "Live",
+      "agensi_version": "1.0"
+    },
+    {
+      "id": "piling-final-account-full",
+      "name": "WINDIA QS Piling Final Account Review Tool (Full)",
+      "edition": "Full",
+      "price_usd": 19.99,
+      "pricing_model": "one_time",
+      "platform": "Agensi.io",
+      "status": "Live",
+      "url": "https://agensi.io/skills/windia-qs-piling-final-account-review-tool-full",
+      "search_term": "WINDIA QS",
+      "version": "1.0.0",
+      "verified_on": "2026-11-25",
+      "agensi_url": "https://agensi.io/skills/windia-qs-piling-final-account-review-tool-full",
+      "agensi_status": "Live",
+      "agensi_version": "1.0"
     }
   ],
   "roadmap": [

@@ -18,10 +18,30 @@ Practical AI skills for quantity surveyors, engineering consultants and business
 | [WINDIA QS Bid Review Suite - Full](https://agensi.io/) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-18 |
 | [WINDIA QS Construction Bid Comparison Tool (Lite)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-lite) | 1.0.0 | Free | GitHub / Agensi.io | Live | 2026-11-21 |
 | [WINDIA QS Construction Bid Comparison Tool (Full)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-21 |
+| [WINDIA QS Piling Final Account Review Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/piling-final-account-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-lite) | 2026-11-25 |
+| [WINDIA QS Piling Final Account Review Tool (Full)](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-25 |
 
 <!-- WINDIA-CATALOG:END -->
 
 Prices and platform statuses reflect the verification dates shown. See the [full catalog and exact Agensi search terms](CATALOG.md). A pending review entry is not yet a live offer.
+
+## Install Piling Final Account Review Lite
+
+**WINDIA QS Piling Final Account Review Tool (Lite)** is free and open source. Prepare a first-pass review of driving records, approved drawings and the piling final account during construction closeout.
+
+```text
+/plugin marketplace add paulfan-windia/windia-skills
+/plugin install windia-piling-final-account-lite@windia-skills
+/windia-piling-final-account-lite:windia-piling-final-account-lite
+```
+
+If the marketplace is already registered, run `/plugin marketplace update windia-skills` before installing.
+
+[Lite ZIP](downloads/windia-piling-final-account-lite-1.0.0.zip) | [Lite .skill](downloads/windia-piling-final-account-lite-1.0.0.skill) | [Lite product README](docs/piling-final-account-lite.md)
+
+> This is the free Lite edition. For the complete rules, calculation workbooks, detailed review checks, and full deliverables, search [Agensi.io](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-full) for **WINDIA QS** and select **WINDIA QS Piling Final Account Review Tool (Full)**. Contact esofanwentao@gmail.com.
+
+[Lite listing on Agensi.io](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-lite) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-full) (USD 19.99 one-time)
 
 ## Install Construction Bid Comparison Lite
 

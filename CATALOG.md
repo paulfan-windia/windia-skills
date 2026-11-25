@@ -10,8 +10,10 @@
 | [WINDIA QS Bid Review Suite - Full](https://agensi.io/) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-18 |
 | [WINDIA QS Construction Bid Comparison Tool (Lite)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-lite) | 1.0.0 | Free | GitHub / Agensi.io | Live | 2026-11-21 |
 | [WINDIA QS Construction Bid Comparison Tool (Full)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-21 |
+| [WINDIA QS Piling Final Account Review Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/piling-final-account-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-lite) | 2026-11-25 |
+| [WINDIA QS Piling Final Account Review Tool (Full)](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-25 |
 
-Platform status and prices are recorded from the latest verified listing information. Pending Review is not a live offer. Agensi links open the marketplace; use the exact search terms below.
+Platform status and prices are recorded from the latest verified listing information. Planned and Pending Review entries are not live offers. Agensi product links are provided when verified; use the search terms below when needed.
 
 ## Agensi search terms
 
@@ -21,6 +23,8 @@ Platform status and prices are recorded from the latest verified listing informa
 - **WINDIA QS Bid Review Suite - Full**: `Skill WINDIA QS Tender Review Suite (Full)`
 - **WINDIA QS Construction Bid Comparison Tool (Lite)**: `WINDIA QS Construction Bid Comparison Tool (Lite)`
 - **WINDIA QS Construction Bid Comparison Tool (Full)**: `WINDIA QS Construction Bid Comparison Tool (Full)`
+- **WINDIA QS Piling Final Account Review Tool (Lite)**: `WINDIA QS`
+- **WINDIA QS Piling Final Account Review Tool (Full)**: `WINDIA QS`
 
 ## Planned skills
 
