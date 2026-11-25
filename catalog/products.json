@@ -124,7 +124,7 @@
       "version": "1.0.0",
       "verified_on": "2026-11-26",
       "agensi_url": "https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite",
-      "agensi_status": "Pending Review",
+      "agensi_status": "Live",
       "agensi_version": "1.0",
       "github_url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/hvac-takeoff-lite.md"
     },
@@ -134,13 +134,13 @@
       "edition": "Full",
       "price_usd": 29.99,
       "platform": "Agensi.io",
-      "status": "Pending Review",
+      "status": "Live",
       "url": "https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full",
       "search_term": "WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full)",
       "version": "1.0.0",
       "verified_on": "2026-11-26",
       "agensi_url": "https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full",
-      "agensi_status": "Pending Review",
+      "agensi_status": "Live",
       "agensi_version": "1.0",
       "pricing_model": "one_time"
     }
