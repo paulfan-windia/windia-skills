@@ -12,8 +12,8 @@
 | [WINDIA QS Construction Bid Comparison Tool (Full)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-21 |
 | [WINDIA QS Piling Final Account Review Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/piling-final-account-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-lite) | 2026-11-25 |
 | [WINDIA QS Piling Final Account Review Tool (Full)](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-25 |
-| [WINDIA QS HVAC Takeoff & Tender BOQ Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/hvac-takeoff-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) | 2026-11-26 |
-| [WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full)](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full) | 1.0.0 | USD 29.99 one-time | Agensi.io | Live | 2026-11-26 |
+| [WINDIA QS AI HVAC Quantity Takeoff Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/hvac-takeoff-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) | 2026-11-26 |
+| [WINDIA QS AI HVAC Quantity Takeoff Tool (Full)](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full) | 1.0.0 | USD 29.99 one-time | Agensi.io | Live | 2026-11-26 |
 
 Platform status and prices are recorded from the latest verified listing information. Planned and Pending Review entries are not live offers. Agensi product links are provided when verified; use the search terms below when needed.
 
@@ -27,8 +27,8 @@ Platform status and prices are recorded from the latest verified listing informa
 - **WINDIA QS Construction Bid Comparison Tool (Full)**: `WINDIA QS Construction Bid Comparison Tool (Full)`
 - **WINDIA QS Piling Final Account Review Tool (Lite)**: `WINDIA QS`
 - **WINDIA QS Piling Final Account Review Tool (Full)**: `WINDIA QS`
-- **WINDIA QS HVAC Takeoff & Tender BOQ Tool (Lite)**: `WINDIA QS HVAC Takeoff & Tender BOQ Tool (Lite)`
-- **WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full)**: `WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full)`
+- **WINDIA QS AI HVAC Quantity Takeoff Tool (Lite)**: `WINDIA QS AI HVAC Quantity Takeoff Tool (Lite)`
+- **WINDIA QS AI HVAC Quantity Takeoff Tool (Full)**: `WINDIA QS AI HVAC Quantity Takeoff Tool (Full)`
 
 ## Planned skills
 
