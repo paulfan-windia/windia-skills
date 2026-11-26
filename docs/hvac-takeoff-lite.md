@@ -35,7 +35,7 @@ Run these commands in Claude Code:
 
 Invoke the installed `windia-hvac-takeoff-lite` skill. In an account with custom Skill upload, download the ZIP from [GitHub ZIP](../downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.zip) or [GitHub .skill](../downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.skill) or use the .skill installer where your client recognises it. If the client only accepts ZIP, use the ZIP.
 
-[Agensi Lite listing](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) · [WINDIA QS AI HVAC Quantity Takeoff Tool (Full) on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full)
+[Agensi Lite listing](https://www.agensi.io/skills/windia-qs-ai-hvac-quantity-takeoff-tool-lite) · [WINDIA QS AI HVAC Quantity Takeoff Tool (Full) on Agensi.io](https://www.agensi.io/skills/windia-qs-ai-hvac-quantity-takeoff-tool-full)
 
 ## Try it
 
@@ -45,7 +45,7 @@ See the [synthetic intake example](../plugins/windia-hvac-takeoff-lite/skills/wi
 
 ## Marketplace status
 
-[Lite on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) (Live) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full) (Live) · USD 29.99 one-time for Full.
+[Lite on Agensi.io](https://www.agensi.io/skills/windia-qs-ai-hvac-quantity-takeoff-tool-lite) (Live) · [Full on Agensi.io](https://www.agensi.io/skills/windia-qs-ai-hvac-quantity-takeoff-tool-full) (Live) · USD 29.99 one-time for Full.
 
 ## About WINDIA
 
