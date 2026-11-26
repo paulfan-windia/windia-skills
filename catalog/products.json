@@ -114,35 +114,61 @@
     },
     {
       "id": "hvac-takeoff-lite",
-      "name": "WINDIA QS HVAC Takeoff & Tender BOQ Tool (Lite)",
+      "name": "WINDIA QS AI HVAC Quantity Takeoff Tool (Lite)",
       "edition": "Lite",
       "price_usd": 0,
       "platform": "GitHub / Agensi.io",
       "status": "Available",
       "url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/hvac-takeoff-lite.md",
-      "search_term": "WINDIA QS HVAC Takeoff & Tender BOQ Tool (Lite)",
+      "search_term": "WINDIA QS AI HVAC Quantity Takeoff Tool (Lite)",
       "version": "1.0.0",
       "verified_on": "2026-11-26",
       "agensi_url": "https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite",
       "agensi_status": "Live",
       "agensi_version": "1.0",
-      "github_url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/hvac-takeoff-lite.md"
+      "github_url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/hvac-takeoff-lite.md",
+      "keywords": [
+        "quantity takeoff",
+        "HVAC",
+        "BOQ",
+        "DXF",
+        "VRF",
+        "CAD",
+        "MEP",
+        "cost estimation",
+        "quantity surveying",
+        "tender"
+      ],
+      "license": "MIT",
+      "licensing_note": "The Lite edition is released under the MIT License. The commercial Full edition is available separately on Agensi.io under its applicable purchase terms."
     },
     {
       "id": "hvac-takeoff-full",
-      "name": "WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full)",
+      "name": "WINDIA QS AI HVAC Quantity Takeoff Tool (Full)",
       "edition": "Full",
       "price_usd": 29.99,
       "platform": "Agensi.io",
       "status": "Live",
       "url": "https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full",
-      "search_term": "WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full)",
+      "search_term": "WINDIA QS AI HVAC Quantity Takeoff Tool (Full)",
       "version": "1.0.0",
       "verified_on": "2026-11-26",
       "agensi_url": "https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full",
       "agensi_status": "Live",
       "agensi_version": "1.0",
-      "pricing_model": "one_time"
+      "pricing_model": "one_time",
+      "keywords": [
+        "quantity takeoff",
+        "HVAC",
+        "BOQ",
+        "DXF",
+        "VRF",
+        "CAD",
+        "MEP",
+        "cost estimation",
+        "quantity surveying",
+        "tender"
+      ]
     }
   ],
   "roadmap": [
