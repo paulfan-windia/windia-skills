@@ -1,0 +1,23 @@
+{
+  "name": "windia-common-area-takeoff-lite",
+  "description": "Scope a residential common-area finishes takeoff before tender. Turn your drawing register and project requirements into a preliminary BOQ outline, missing-information list and review plan.",
+  "version": "1.0.0",
+  "keywords": [
+    "quantity-takeoff",
+    "bill-of-quantities",
+    "construction-estimating",
+    "quantity-surveying",
+    "residential-finishes",
+    "common-areas",
+    "tender-boq",
+    "dxf-takeoff",
+    "fit-out-takeoff"
+  ],
+  "author": {
+    "name": "WINDIA",
+    "email": "esofanwentao@gmail.com"
+  },
+  "homepage": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/common-area-takeoff-lite.md",
+  "repository": "https://github.com/paulfan-windia/windia-skills",
+  "license": "MIT"
+}
