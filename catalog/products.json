@@ -169,6 +169,63 @@
         "quantity surveying",
         "tender"
       ]
+    },
+    {
+      "id": "progress-payment-review-lite",
+      "name": "WINDIA QS Construction Progress Payment Review Tool (Lite)",
+      "edition": "Lite",
+      "price_usd": 0,
+      "version": "1.0.0",
+      "platform": "GitHub / Agensi.io",
+      "status": "Available",
+      "url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/progress-payment-review-lite.md",
+      "search_term": "WINDIA QS Construction Progress Payment Review Tool (Lite)",
+      "verified_on": "2026-11-26",
+      "agensi_url": "https://agensi.io/skills/windia-qs-construction-progress-payment-review-tool-lite",
+      "agensi_status": "Live",
+      "keywords": [
+        "progress payment",
+        "payment application",
+        "interim valuation",
+        "construction billing",
+        "schedule of values",
+        "quantity surveying",
+        "BOQ",
+        "change order",
+        "FIDIC",
+        "RICS NRM 2"
+      ],
+      "github_url": "https://github.com/paulfan-windia/windia-skills/blob/main/docs/progress-payment-review-lite.md",
+      "license": "MIT",
+      "licensing_note": "The Lite edition is released under the MIT License. The commercial Full edition is available separately on Agensi.io under its applicable purchase terms."
+    },
+    {
+      "id": "progress-payment-review-full",
+      "name": "WINDIA QS Construction Progress Payment Review Tool (Full)",
+      "edition": "Full",
+      "price_usd": 9.99,
+      "version": "1.0.0",
+      "platform": "Agensi.io",
+      "status": "Live",
+      "url": "https://agensi.io/skills/windia-qs-construction-progress-payment-review-tool-full",
+      "search_term": "WINDIA QS Construction Progress Payment Review Tool (Full)",
+      "verified_on": "2026-11-26",
+      "agensi_url": "https://agensi.io/skills/windia-qs-construction-progress-payment-review-tool-full",
+      "agensi_status": "Live",
+      "keywords": [
+        "progress payment",
+        "payment application",
+        "interim valuation",
+        "construction billing",
+        "schedule of values",
+        "quantity surveying",
+        "BOQ",
+        "change order",
+        "FIDIC",
+        "RICS NRM 2"
+      ],
+      "pricing_model": "one_time",
+      "agensi_version": "1.0"
     }
   ],
   "roadmap": [
