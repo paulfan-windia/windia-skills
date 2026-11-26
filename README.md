@@ -29,6 +29,20 @@ Practical AI skills for quantity surveyors, engineering consultants and business
 
 Prices and platform statuses reflect the verification dates shown. See the [full catalog and exact Agensi search terms](CATALOG.md). A pending review entry is not yet a live offer.
 
+
+## Install Construction Progress Payment Review Lite
+
+**WINDIA QS Construction Progress Payment Review Tool (Lite)** organizes payment applications, prior valuations and site records. It provides an intake and preliminary review outline.
+
+The Lite edition is released under the MIT License. The commercial Full edition is available separately on Agensi.io under its applicable purchase terms.
+
+```text
+/plugin marketplace add paulfan-windia/windia-skills
+/plugin install windia-progress-payment-review-lite@windia-skills
+```
+
+[ZIP](downloads/progress-payment-review/windia-progress-payment-review-lite-1.0.0.zip) · [.skill](downloads/progress-payment-review/windia-progress-payment-review-lite-1.0.0.skill) · [Agensi Lite](https://agensi.io/skills/windia-qs-construction-progress-payment-review-tool-lite) · [Full edition on Agensi.io](https://agensi.io/skills/windia-qs-construction-progress-payment-review-tool-full) · [Lite product README](docs/progress-payment-review-lite.md).
+
 ## Install HVAC Takeoff Lite
 
 **WINDIA QS AI HVAC Quantity Takeoff Tool (Lite)** is free and open source. Prepare a drawing register, scope questions and BOQ outline for an HVAC bid.
