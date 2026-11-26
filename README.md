@@ -20,8 +20,8 @@ Practical AI skills for quantity surveyors, engineering consultants and business
 | [WINDIA QS Construction Bid Comparison Tool (Full)](https://agensi.io/skills/windia-qs-construction-bid-comparison-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-21 |
 | [WINDIA QS Piling Final Account Review Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/piling-final-account-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-lite) | 2026-11-25 |
 | [WINDIA QS Piling Final Account Review Tool (Full)](https://agensi.io/skills/windia-qs-piling-final-account-review-tool-full) | 1.0.0 | USD 19.99 one-time | Agensi.io | Live | 2026-11-25 |
-| [WINDIA QS AI HVAC Quantity Takeoff Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/hvac-takeoff-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) | 2026-11-26 |
-| [WINDIA QS AI HVAC Quantity Takeoff Tool (Full)](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full) | 1.0.0 | USD 29.99 one-time | Agensi.io | Live | 2026-11-26 |
+| [WINDIA QS AI HVAC Quantity Takeoff Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/hvac-takeoff-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://www.agensi.io/skills/windia-qs-ai-hvac-quantity-takeoff-tool-lite) | 2026-11-26 |
+| [WINDIA QS AI HVAC Quantity Takeoff Tool (Full)](https://www.agensi.io/skills/windia-qs-ai-hvac-quantity-takeoff-tool-full) | 1.0.0 | USD 29.99 one-time | Agensi.io | Live | 2026-11-26 |
 
 <!-- WINDIA-CATALOG:END -->
 
@@ -38,7 +38,7 @@ The Lite edition is released under the [MIT License](plugins/windia-hvac-takeoff
 /plugin install windia-hvac-takeoff-lite@windia-skills
 ```
 
-[Lite product README](docs/hvac-takeoff-lite.md) · [Download ZIP](downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.zip) · [.skill installer](downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.skill) · [Lite on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) (Live) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full) (Live).
+[Lite product README](docs/hvac-takeoff-lite.md) · [Download ZIP](downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.zip) · [.skill installer](downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.skill) · [Lite on Agensi.io](https://www.agensi.io/skills/windia-qs-ai-hvac-quantity-takeoff-tool-lite) (Live) · [Full on Agensi.io](https://www.agensi.io/skills/windia-qs-ai-hvac-quantity-takeoff-tool-full) (Live).
 
 ## Install Piling Final Account Review Lite
 
