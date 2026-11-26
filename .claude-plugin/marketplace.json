@@ -73,19 +73,19 @@
     {
       "name": "windia-hvac-takeoff-lite",
       "source": "./plugins/windia-hvac-takeoff-lite",
-      "description": "Organise VRF and ventilation drawings for an HVAC bid. Identify the input gaps, project boundaries and BOQ headings. The free edition gives you a takeoff brief and a review outline.",
+      "description": "WINDIA QS AI HVAC Quantity Takeoff Tool (Lite). Plan HVAC quantity takeoff from DXF/CAD drawings and outline the VRF tender BOQ. The Lite edition is released under the MIT License. The commercial Full edition is available separately on Agensi.io under its applicable purchase terms.",
       "version": "1.0.0",
       "keywords": [
-        "hvac",
         "quantity-takeoff",
+        "hvac",
         "boq",
         "dxf",
         "vrf",
-        "ductwork",
+        "cad",
+        "mep",
+        "cost-estimation",
         "quantity-surveying",
-        "tender",
-        "rics-nrm2",
-        "fidic"
+        "tender"
       ]
     }
   ]
