@@ -87,6 +87,24 @@
         "quantity-surveying",
         "tender"
       ]
+    },
+    {
+      "name": "windia-progress-payment-review-lite",
+      "source": "./plugins/windia-progress-payment-review-lite",
+      "description": "Organize construction payment applications, prior valuations and site records. Flag missing evidence and prepare a preliminary progress payment review outline. Free and open source under the MIT License.",
+      "version": "1.0.0",
+      "keywords": [
+        "progress-payment",
+        "payment-application",
+        "interim-valuation",
+        "construction-billing",
+        "schedule-of-values",
+        "quantity-surveying",
+        "boq",
+        "change-order",
+        "fidic",
+        "rics-nrm-2"
+      ]
     }
   ]
 }
