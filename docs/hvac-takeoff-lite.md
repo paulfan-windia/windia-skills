@@ -1,6 +1,8 @@
-# WINDIA QS HVAC Takeoff & Tender BOQ Tool (Lite)
+# WINDIA QS AI HVAC Quantity Takeoff Tool (Lite)
 
-This is the free WINDIA Lite edition. For the complete measurement rules, working papers, validation and tender deliverables, search Agensi.io for **WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full)** (WINDIA QS). Contact esofanwentao@gmail.com.
+This is the free WINDIA Lite edition. For the complete measurement rules, working papers, validation and tender deliverables, search Agensi.io for **WINDIA QS AI HVAC Quantity Takeoff Tool (Full)** (WINDIA QS). Contact esofanwentao@gmail.com.
+
+The Lite edition is released under the MIT License. The commercial Full edition is available separately on Agensi.io under its applicable purchase terms.
 
 <p align="center"><img src="../assets/windia-skill-logo.png" alt="WINDIA official logo" width="144"></p>
 
@@ -33,7 +35,7 @@ Run these commands in Claude Code:
 
 Invoke the installed `windia-hvac-takeoff-lite` skill. In an account with custom Skill upload, download the ZIP from [GitHub ZIP](../downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.zip) or [GitHub .skill](../downloads/hvac-takeoff/windia-hvac-takeoff-lite-1.0.0.skill) or use the .skill installer where your client recognises it. If the client only accepts ZIP, use the ZIP.
 
-[Agensi Lite listing](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) · [WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full) on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full)
+[Agensi Lite listing](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-lite) · [WINDIA QS AI HVAC Quantity Takeoff Tool (Full) on Agensi.io](https://agensi.io/skills/windia-qs-hvac-takeoff-tender-boq-tool-full)
 
 ## Try it
 
@@ -55,8 +57,14 @@ Over the coming months, WINDIA plans additional tools for construction, property
 
 Star or watch the repository for future Lite releases.
 
-English search terms: HVAC Quantity Takeoff, HVAC Takeoff, HVAC Bill of Quantities, Tender BOQ, Mechanical Takeoff, DXF Takeoff, VRF Quantity Takeoff, Ductwork Takeoff, Quantity Surveying, HVAC Bid Preparation, MEP Quantity Takeoff, RICS NRM2, FIDIC, Construction Procurement, Bid Leveling.
+### Search keywords
+
+- **Core:** quantity takeoff, HVAC takeoff, BOQ (bill of quantities), tender BOQ, VRF.
+- **Drawing inputs:** DXF takeoff, CAD takeoff, drawing to BOQ, AutoCAD quantity.
+- **HVAC scope:** refrigerant pipe, condensate pipe, ductwork, fresh air system, MEP takeoff (HVAC scope).
+- **Roles and contexts:** quantity surveyor, cost estimation, construction estimating, tender documents, cost consultant.
+- **Full edition review features:** automated takeoff, 3D visualization, takeoff trace, consistent results.
 
 Contact [esofanwentao@gmail.com](mailto:esofanwentao@gmail.com).
 
-This is the free WINDIA Lite edition. For the complete measurement rules, working papers, validation and tender deliverables, search Agensi.io for **WINDIA QS HVAC Takeoff & Tender BOQ Tool (Full)** (WINDIA QS). Contact esofanwentao@gmail.com.
+This is the free WINDIA Lite edition. For the complete measurement rules, working papers, validation and tender deliverables, search Agensi.io for **WINDIA QS AI HVAC Quantity Takeoff Tool (Full)** (WINDIA QS). Contact esofanwentao@gmail.com.
