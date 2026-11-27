@@ -32,6 +32,19 @@ Practical AI skills for quantity surveyors, engineering consultants and business
 Prices and platform statuses reflect the verification dates shown. See the [full catalog and exact Agensi search terms](CATALOG.md). A pending review entry is not yet a live offer.
 
 
+
+
+## Install Common-Area Takeoff Lite
+
+**WINDIA QS Common-Area Takeoff & BOQ Tool (Lite)** scopes residential common-area finishes and creates a preliminary tender BOQ outline. Lite is free under the MIT License. The commercial Full edition is available separately on Agensi.io under its applicable purchase terms.
+
+```text
+/plugin marketplace add paulfan-windia/windia-skills
+/plugin install windia-common-area-takeoff-lite@windia-skills
+```
+
+[ZIP](downloads/common-area-takeoff/windia-common-area-takeoff-lite-1.0.0.zip) · [.skill](downloads/common-area-takeoff/windia-common-area-takeoff-lite-1.0.0.skill) · [Lite product README](docs/common-area-takeoff-lite.md) · [Lite on Agensi.io](https://agensi.io/skills/windia-qs-common-area-takeoff-boq-tool-lite) (Live) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-common-area-takeoff-boq-tool-full) (Live).
+
 ## Install Construction Progress Payment Review Lite
 
 **WINDIA QS Construction Progress Payment Review Tool (Lite)** organizes payment applications, prior valuations and site records. It provides an intake and preliminary review outline.
