@@ -122,6 +122,23 @@
         "dxf-takeoff",
         "fit-out-takeoff"
       ]
+    },
+    {
+      "name": "windia-structural-change-valuation-lite",
+      "source": "./plugins/windia-structural-change-valuation-lite",
+      "description": "Scope a structural change order during construction. Organise baseline and revised documents, flag missing evidence, and outline a quantity and cost comparison for QS review.",
+      "version": "1.0.0",
+      "keywords": [
+        "change-orders",
+        "variation-valuation",
+        "quantity-surveying",
+        "construction-estimating",
+        "structural-works",
+        "contract-administration",
+        "construction-cost",
+        "post-contract",
+        "cost-review"
+      ]
     }
   ]
 }
