@@ -36,6 +36,18 @@ Prices and platform statuses reflect the verification dates shown. See the [full
 
 
 
+
+## Install Structural Change Valuation Lite
+
+**WINDIA QS AI Change Order Valuation Tool (Lite)** organises structural change documents and creates a preliminary quantity and cost comparison outline. Lite is free under the MIT License. The commercial Full edition is available separately on Agensi.io under its applicable purchase terms.
+
+```text
+/plugin marketplace add paulfan-windia/windia-skills
+/plugin install windia-structural-change-valuation-lite@windia-skills
+```
+
+[ZIP](downloads/structural-change-valuation/windia-structural-change-valuation-lite-1.0.0.zip) · [.skill](downloads/structural-change-valuation/windia-structural-change-valuation-lite-1.0.0.skill) · [Lite product README](docs/structural-change-valuation-lite.md) · [Lite on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-lite) (Live) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-full) (Pending Review).
+
 ## Install Common-Area Takeoff Lite
 
 **WINDIA QS Common-Area Takeoff & BOQ Tool (Lite)** scopes residential common-area finishes and creates a preliminary tender BOQ outline. Lite is free under the MIT License. The commercial Full edition is available separately on Agensi.io under its applicable purchase terms.
