@@ -27,11 +27,12 @@ Practical AI skills for quantity surveyors, engineering consultants and business
 | [WINDIA QS Common-Area Takeoff & BOQ Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/common-area-takeoff-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-common-area-takeoff-boq-tool-lite) | 2026-11-27 |
 | [WINDIA QS Common-Area Takeoff & BOQ Tool (Full)](https://agensi.io/skills/windia-qs-common-area-takeoff-boq-tool-full) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-27 |
 | [WINDIA QS AI Change Order Valuation Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/structural-change-valuation-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-lite) | 2026-11-27 |
-| [WINDIA QS AI Change Order Valuation Tool (Full)](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-full) | 1.0.0 | USD 9.99 one-time | Agensi.io | Pending Review | 2026-11-27 |
+| [WINDIA QS AI Change Order Valuation Tool (Full)](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-full) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-27 |
 
 <!-- WINDIA-CATALOG:END -->
 
 Prices and platform statuses reflect the verification dates shown. See the [full catalog and exact Agensi search terms](CATALOG.md). A pending review entry is not yet a live offer.
+
 
 
 
@@ -46,7 +47,7 @@ Prices and platform statuses reflect the verification dates shown. See the [full
 /plugin install windia-structural-change-valuation-lite@windia-skills
 ```
 
-[ZIP](downloads/structural-change-valuation/windia-structural-change-valuation-lite-1.0.0.zip) · [.skill](downloads/structural-change-valuation/windia-structural-change-valuation-lite-1.0.0.skill) · [Lite product README](docs/structural-change-valuation-lite.md) · [Lite on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-lite) (Live) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-full) (Pending Review).
+[ZIP](downloads/structural-change-valuation/windia-structural-change-valuation-lite-1.0.0.zip) · [.skill](downloads/structural-change-valuation/windia-structural-change-valuation-lite-1.0.0.skill) · [Lite product README](docs/structural-change-valuation-lite.md) · [Lite on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-lite) (Live) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-full) (Live).
 
 ## Install Common-Area Takeoff Lite
 
