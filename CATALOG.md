@@ -18,6 +18,8 @@
 | [WINDIA QS Construction Progress Payment Review Tool (Full)](https://agensi.io/skills/windia-qs-construction-progress-payment-review-tool-full) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-26 |
 | [WINDIA QS Common-Area Takeoff & BOQ Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/common-area-takeoff-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-common-area-takeoff-boq-tool-lite) | 2026-11-27 |
 | [WINDIA QS Common-Area Takeoff & BOQ Tool (Full)](https://agensi.io/skills/windia-qs-common-area-takeoff-boq-tool-full) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-27 |
+| [WINDIA QS AI Change Order Valuation Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/structural-change-valuation-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-lite) | 2026-11-27 |
+| [WINDIA QS AI Change Order Valuation Tool (Full)](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-full) | 1.0.0 | USD 9.99 one-time | Agensi.io | Pending Review | 2026-11-27 |
 
 Platform status and prices are recorded from the latest verified listing information. Planned and Pending Review entries are not live offers. Agensi product links are provided when verified; use the search terms below when needed.
 
@@ -37,6 +39,8 @@ Platform status and prices are recorded from the latest verified listing informa
 - **WINDIA QS Construction Progress Payment Review Tool (Full)**: `WINDIA QS Construction Progress Payment Review Tool (Full)`
 - **WINDIA QS Common-Area Takeoff & BOQ Tool (Lite)**: `WINDIA QS Common-Area Takeoff & BOQ Tool (Lite)`
 - **WINDIA QS Common-Area Takeoff & BOQ Tool (Full)**: `WINDIA QS Common-Area Takeoff & BOQ Tool (Full)`
+- **WINDIA QS AI Change Order Valuation Tool (Lite)**: `WINDIA QS AI Change Order Valuation Tool (Lite)`
+- **WINDIA QS AI Change Order Valuation Tool (Full)**: `WINDIA QS AI Change Order Valuation Tool (Full)`
 
 ## Planned skills
 
