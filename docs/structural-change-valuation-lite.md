@@ -31,7 +31,7 @@ Lite is released under the MIT License. Full adds detailed calculations, working
 
 ## Agensi edition links
 
-[Lite on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-lite) (Live) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-full) (Pending Review)
+[Lite on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-lite) (Live) · [Full on Agensi.io](https://agensi.io/skills/windia-qs-ai-change-order-valuation-tool-full) (Live)
 
 ## Install Lite
 
