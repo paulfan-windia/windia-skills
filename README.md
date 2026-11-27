@@ -24,6 +24,8 @@ Practical AI skills for quantity surveyors, engineering consultants and business
 | [WINDIA QS AI HVAC Quantity Takeoff Tool (Full)](https://www.agensi.io/skills/windia-qs-ai-hvac-quantity-takeoff-tool-full) | 1.0.0 | USD 29.99 one-time | Agensi.io | Live | 2026-11-26 |
 | [WINDIA QS Construction Progress Payment Review Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/progress-payment-review-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-construction-progress-payment-review-tool-lite) | 2026-11-26 |
 | [WINDIA QS Construction Progress Payment Review Tool (Full)](https://agensi.io/skills/windia-qs-construction-progress-payment-review-tool-full) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-26 |
+| [WINDIA QS Common-Area Takeoff & BOQ Tool (Lite)](https://github.com/paulfan-windia/windia-skills/blob/main/docs/common-area-takeoff-lite.md) | 1.0.0 | Free | GitHub / Agensi.io | Available on GitHub / [Agensi: Live](https://agensi.io/skills/windia-qs-common-area-takeoff-boq-tool-lite) | 2026-11-27 |
+| [WINDIA QS Common-Area Takeoff & BOQ Tool (Full)](https://agensi.io/skills/windia-qs-common-area-takeoff-boq-tool-full) | 1.0.0 | USD 9.99 one-time | Agensi.io | Live | 2026-11-27 |
 
 <!-- WINDIA-CATALOG:END -->
 
